@@ -3,6 +3,7 @@ package com.project.multipedidos_api_clientes.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+//Clase Cliente
 @Data
 @Entity
 public class Cliente {
